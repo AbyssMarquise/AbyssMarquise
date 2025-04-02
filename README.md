@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbyssMarquise
 - 👀 I’m interested in technologies
-- 🌱 I’m currently learning about data
+- 🌱 I’m currently learning about data and javascript framworks
 - 💞️ I’m looking to collaborate on M.E.R.N Stack
 
 <!---
